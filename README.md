@@ -1,33 +1,26 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=000000&fontColor=00FF41&text=%3E_%20PRANJAL%20KUMAR&fontSize=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descColor=0AFF0A&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0A0E27,1B1F3B,2D1B4E&height=220&section=header&text=PRANJAL%20KUMAR&fontSize=48&fontColor=00D9FF&fontAlignY=38&desc=Full-Stack%20Developer%20~%20Cybersecurity%20Enthusiast&descAlignY=55&descColor=B983FF&animation=fadeIn" />
 </div>
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Full-Stack+Developer;%24+focus+%E2%86%92+React+%7C+Java+%7C+Python+%7C+ML;%24+status+%E2%86%92+Open+to+Full-Stack+%2F+Security+roles" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=00FF41&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%7C+Cybersecurity;%24+skills+%E2%86%92+React+%7C+Java+%7C+Python+%7C+ML;%24+cat+open-to.txt+%E2%86%92+Full-Stack+%2F+Cybersecurity+Roles" />
+<p align="center">
+<a href="https://github.com/pranjalKumarglbtim"><img src="https://img.shields.io/badge/GITHUB-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
+<a href="https://linkedin.com/in/thepranjalkumar"><img src="https://img.shields.io/badge/LINKEDIN-0A0E27?style=for-the-badge&logo=linkedin&logoColor=B983FF" /></a>
+<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0E27?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
+</p>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/📍_Prayagraj,_India-0A0E27?style=flat-square&logoColor=00D9FF&color=1B1F3B" />
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-GL_Bajaj_IT%26M-0A0E27?style=flat-square&color=1B1F3B" />
+<img src="https://komarev.com/ghpvc/?username=pranjalKumarglbtim&color=1B1F3B&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
-<div align="center">
-
-![Location](https://img.shields.io/badge/Prayagraj%2C_India-000000?style=flat-square&logo=googlemaps&logoColor=00FF41&labelColor=000000&color=0AFF0A)
-![Education](https://img.shields.io/badge/B.Tech_CSE-GL_Bajaj_IT%26M-000000?style=flat-square&logo=googlescholar&logoColor=00FF41&labelColor=000000&color=0AFF0A)
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/pranjalKumarglbtim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://linkedin.com/in/thepranjalkumar)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:thepranjalkumar99@gmail.com)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranjalKumarglbtim&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0A0E27,2D1B4E&height=3&width=1000" />
+</p>
 
 ## `> whoami`
 
@@ -153,31 +146,31 @@ Full-stack task management platform.
 
 ## `> cat education.md`
 
-![B.Tech](https://img.shields.io/badge/B.Tech_CSE-GL_Bajaj_Institute_of_Technology_%26_Management-000000?style=for-the-badge&logo=googlescholar&logoColor=00FF41&labelColor=000000)
+![B.Tech](https://img.shields.io/badge/B.Tech_CSE-GL_Bajaj_Institute_of_Technology_%26_Management-0A0E27?style=for-the-badge&logoColor=00D9FF&labelColor=0A0E27&color=1B1F3B)
 `Sept 2024 – June 2027 · Greater Noida, Uttar Pradesh`
 
-![Diploma](https://img.shields.io/badge/Diploma_in_IT-Government_Polytechnic-000000?style=for-the-badge&logo=googlescholar&logoColor=00FF41&labelColor=000000)
+![Diploma](https://img.shields.io/badge/Diploma_in_IT-Government_Polytechnic-0A0E27?style=for-the-badge&logoColor=B983FF&labelColor=0A0E27&color=1B1F3B)
 `Oct 2021 – Sept 2024 · Lucknow, Uttar Pradesh`
 
 ## `> github stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&hide_border=true&title_color=00FF41&icon_color=0AFF0A&text_color=E8F5E1&bg_color=000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&hide_border=true&border_radius=12&title_color=00D9FF&icon_color=B983FF&text_color=C9D1D9&bg_color=0A0E27&ring_color=00D9FF" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalKumarglbtim&hide_border=true&background=000000&stroke=00FF41&ring=0AFF0A&fire=00FF41&currStreakLabel=00FF41" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-trophy.vercel.app/?username=pranjalKumarglbtim&theme=matrix&no-frame=true&column=7" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalKumarglbtim&hide_border=true&border_radius=12&background=0A0E27&stroke=00D9FF&ring=B983FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalKumarglbtim&bg_color=000000&color=00FF41&line=00FF41&point=0AFF0A&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-trophy.vercel.app/?username=pranjalKumarglbtim&theme=dracula&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8&title_color=00D9FF&icon_color=B983FF&text_color=C9D1D9&bg_color=0A0E27" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalKumarglbtim&bg_color=0A0E27&color=00D9FF&line=00D9FF&point=B983FF&area=true&area_color=B983FF&hide_border=true&border_radius=12" width="100%" />
 
 </div>
 
@@ -208,14 +201,14 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://linkedin.com/in/thepranjalkumar)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:thepranjalkumar99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/pranjalKumarglbtim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0A0E27)](https://linkedin.com/in/thepranjalkumar)
+[![Gmail](https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=B983FF&labelColor=0A0E27)](mailto:thepranjalkumar99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0A0E27)](https://github.com/pranjalKumarglbtim)
 
 </div>
 
-<div align="center">
+<p align="center">
 <i>"Building at the intersection of full-stack development, AI, and cybersecurity."</i>
-</div>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=000000&fontColor=00FF41&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,2D1B4E,1B1F3B,0A0E27&height=150&section=footer" />
