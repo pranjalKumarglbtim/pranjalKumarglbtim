@@ -1,214 +1,224 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0A0E27,1B1F3B,2D1B4E&height=220&section=header&text=PRANJAL%20KUMAR&fontSize=48&fontColor=00D9FF&fontAlignY=38&desc=Full-Stack%20Developer%20~%20Cybersecurity%20Enthusiast&descAlignY=55&descColor=B983FF&animation=fadeIn" />
+
+<img src="./assets/terminal-header.svg" width="100%" alt="Pranjal Kumar — Full-Stack Developer, AI/ML Builder, Security Enthusiast" />
+
+<br/>
+
+<a href="https://github.com/pranjalKumarglbtim"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
+<a href="https://linkedin.com/in/thepranjalkumar"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pranjalKumarglbtim&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/pranjalKumarglbtim?style=flat-square&color=A78BFA&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/pranjalKumarglbtim?style=flat-square&color=22D3EE&label=STARS" />
+
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Full-Stack+Developer;%24+focus+%E2%86%92+React+%7C+Java+%7C+Python+%7C+ML;%24+status+%E2%86%92+Open+to+Full-Stack+%2F+Security+roles" />
-</p>
+---
 
-<p align="center">
-<a href="https://github.com/pranjalKumarglbtim"><img src="https://img.shields.io/badge/GITHUB-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
-<a href="https://linkedin.com/in/thepranjalkumar"><img src="https://img.shields.io/badge/LINKEDIN-0A0E27?style=for-the-badge&logo=linkedin&logoColor=B983FF" /></a>
-<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0E27?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
-</p>
+## `01 / IDENTITY`
 
-<p align="center">
-<img src="https://img.shields.io/badge/📍_Prayagraj,_India-0A0E27?style=flat-square&logoColor=00D9FF&color=1B1F3B" />
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-GL_Bajaj_IT%26M-0A0E27?style=flat-square&color=1B1F3B" />
-<img src="https://komarev.com/ghpvc/?username=pranjalKumarglbtim&color=1B1F3B&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+> **I build software, experiment with AI, and keep security in the design loop.**
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0A0E27,2D1B4E&height=3&width=1000" />
-</p>
+I'm **Pranjal Kumar**, a B.Tech CSE student and developer focused on building practical web applications and AI-powered tools. My current stack sits at the intersection of **full-stack development, Java/Python, AI/ML, and cybersecurity**.
 
-## `> whoami`
-
-Full-stack developer and cybersecurity practitioner with hands-on experience in React, JavaScript, Python, and AI/ML. Built ML-powered and Generative AI projects with real-world impact, backed by industry certifications in networking and security.
-
-```bash
-$ cat .profile
-
-ROLE     =  Full-Stack Developer
-EXP      =  B.Tech CSE (2024–2027) + 2 Internships
-DOMAIN   =  Full-Stack Web  |  Cybersecurity  |  AI / ML
-STACK    =  React  |  Java  |  Python  |  JavaScript  |  MySQL  |  MongoDB
-OPEN_TO  =  Full-Stack Developer / Cybersecurity Roles
+```text
+┌─ CURRENT PROFILE ──────────────────────────────────────────┐
+│  ROLE        → Full-Stack Developer / AI-ML Builder        │
+│  EDUCATION   → B.Tech CSE · GL Bajaj · 2024–2027           │
+│  EXPERIENCE  → Full-Stack + Web Development Internships    │
+│  FOCUS       → Web Apps · AI/ML · Cybersecurity             │
+│  LOCATION    → India                                       │
+└────────────────────────────────────────────────────────────┘
 ```
 
-## `> ls /tech-stack`
+### What I care about
 
-**Development**
-![HTML5](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark)
+- 🧩 Turning ideas into usable, maintainable applications
+- 🤖 Applying AI/ML and Generative AI to real products
+- 🔐 Learning security with a practical, defensive mindset
+- ⚙️ Improving backend APIs, frontend UX, and developer workflows
+- 🚀 Building projects that are worth putting in a portfolio
 
-**Languages**
-![Languages](https://skillicons.dev/icons?i=c,python,java,js&theme=dark)
+---
 
-**Cloud & DevOps**
-![Cloud](https://skillicons.dev/icons?i=gcp,aws,linux,git,github&theme=dark)
+## `02 / TECH ARSENAL`
 
-**Database & Tools**
-![DB](https://skillicons.dev/icons?i=mysql,mongodb,postman&theme=dark)
+### Languages
 
-## `> cat expertise.md`
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,sql&theme=dark" />
+</p>
 
-| Domain | Focus Areas |
-| :-- | :-- |
-| **Full-Stack Development** | React, REST APIs, HTML/CSS/JS, Bootstrap |
-| **Cybersecurity** | Ethical Hacking, SOC Fundamentals, Web Security, Red/Blue/Purple Team Basics |
-| **AI / ML** | Machine Learning, Generative AI, Prompt Engineering |
-| **Cloud** | Google Cloud Platform, AWS Cloud Foundations, Linux (Red Hat) |
-| **Database** | MySQL, NoSQL, MongoDB |
+### Frontend & Backend
 
-## `> ls /projects --featured`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,spring,fastapi&theme=dark" />
+</p>
 
-<details open>
-<summary><b>&#9654; Fake News Detection System</b></summary>
+### Data, Cloud & DevOps
 
-ML-based system that classifies news articles as real or fake using text vectorization and automated web scraping.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp,linux,git,github&theme=dark" />
+</p>
 
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python · Scikit-learn · TF-IDF · PassiveAggressiveClassifier · Tkinter · Pandas · Newspaper3k |
-| **Impact** | 91%+ classification accuracy on test data |
-| **Repo** | [View](https://github.com/pranjalKumarglbtim/Fake-News-Detection-System) |
-| **Live** | [Demo](https://fake-news-detection-system-beta.vercel.app) |
+### AI / ML & Tools
 
-Built the ML pipeline (TF-IDF vectorization + PassiveAggressiveClassifier) and the automated scraping layer using Newspaper3k and BeautifulSoup to extract and preprocess article content.
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,postman,vscode&theme=dark" />
+</p>
 
-</details>
+<table>
+<tr><th>Area</th><th>Working With</th></tr>
+<tr><td>Web</td><td>React · JavaScript · HTML · CSS · Bootstrap · REST APIs</td></tr>
+<tr><td>Backend</td><td>Java · Spring Boot · FastAPI · JDBC · Servlets</td></tr>
+<tr><td>AI / ML</td><td>Machine Learning · Scikit-learn · Generative AI · Prompt Engineering</td></tr>
+<tr><td>Security</td><td>Web Security · Networking · SOC Fundamentals · Red/Blue/Purple Team Basics</td></tr>
+<tr><td>Cloud</td><td>AWS · Google Cloud · Linux</td></tr>
+<tr><td>Data</td><td>MySQL · MongoDB · NoSQL · Firebase</td></tr>
+</table>
 
-<details>
-<summary><b>&#9654; AI Thumbnail Generator</b></summary>
+---
 
-AI-powered thumbnail generation platform combining Generative AI APIs with a custom prompt engineering pipeline.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | HTML · CSS · JavaScript · Generative AI APIs · Prompt Engineering |
-| **Impact** | Real-world application of LLM-based prompt orchestration relevant to AI agent workflows |
-| **Repo** | [View](https://github.com/pranjalKumarglbtim) |
-
-</details>
-
-<details>
-<summary><b>&#9654; Library Management System</b></summary>
-
-Web application for storage and management of books.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | TypeScript |
-| **Repo** | [View](https://github.com/pranjalKumarglbtim/Library-Management-System) |
-| **Live** | [Demo](https://library-management-system-tau-six.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>&#9654; Task Management Full-Stack Application</b></summary>
-
-Full-stack task management platform.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Java |
-| **Repo** | [View](https://github.com/pranjalKumarglbtim/Task-Management-Full-Stack-Application) |
-
-</details>
-
-## `> git log --experience`
-
-**Full Stack Intern** · The Developers Arena, Greater Noida
-`Recent`
-- Contributed to development and improvement of web applications across frontend and backend modules
-- Translated project requirements into functional solutions while learning industry development practices and workflows
-- `#React` `#REST-APIs` `#Full-Stack`
-
-**Web Development Intern** · Softpro India Computer Technologies (P) Ltd., Lucknow
-- Collaborated in an Agile team, participating in sprint planning and code reviews for timely feature delivery
-- Developed 5+ responsive web pages using HTML5, CSS3, JavaScript, and Java — achieved 30% improvement in page load time through code optimization
-- `#Agile` `#HTML5` `#CSS3` `#JavaScript`
-
-## `> cat achievements.md`
+## `03 / SELECTED BUILDS`
 
 <div align="center">
 
-| Certification | Issued By |
-| :-- | :-- |
-| CCNA: Introduction to Networks | Cisco Networking Academy |
-| Introduction to Cybersecurity | Cisco Networking Academy |
-| Red Hat Training: Linux Fundamentals (RH104 v9.1) | Red Hat |
-| AWS Academy Graduate — Cloud Foundations | Amazon Web Services |
-| Cybersecurity Foundation | Palo Alto Networks Cybersecurity Academy |
-| Cybersecurity Academy Orientation | Palo Alto Networks |
+| PROJECT | WHAT IT DOES | STACK |
+|:---|:---|:---|
+| **AI Thumbnail Generator** | Generates thumbnails through an AI-powered web workflow | TypeScript · Generative AI |
+| **Fake News Detection** | Classifies news and analyzes article content | Python · Scikit-learn · NLP |
+| **Task Management App** | Full-stack task management application | Java |
+| **3D Portfolio** | Interactive personal portfolio experience | JavaScript · 3D Web |
+| **RedChillies** | Restaurant reservation and food-ordering platform | HTML · CSS · JavaScript |
+| **Library Management** | Web application for managing books | TypeScript |
 
 </div>
 
-## `> cat education.md`
+### ⭐ Featured project: Fake News Detection
 
-![B.Tech](https://img.shields.io/badge/B.Tech_CSE-GL_Bajaj_Institute_of_Technology_%26_Management-0A0E27?style=for-the-badge&logoColor=00D9FF&labelColor=0A0E27&color=1B1F3B)
-`Sept 2024 – June 2027 · Greater Noida, Uttar Pradesh`
+A machine-learning project using **TF-IDF + PassiveAggressiveClassifier**, with article extraction through web-scraping tools.
 
-![Diploma](https://img.shields.io/badge/Diploma_in_IT-Government_Polytechnic-0A0E27?style=for-the-badge&logoColor=B983FF&labelColor=0A0E27&color=1B1F3B)
-`Oct 2021 – Sept 2024 · Lucknow, Uttar Pradesh`
+**Live:** https://fake-news-detection-system-beta.vercel.app  ·  **Code:** https://github.com/pranjalKumarglbtim/Fake-News-Detection-System
 
-## `> github stats`
+### 🤖 AI Thumbnail Generator
+
+A lightweight AI product experiment focused on **Generative AI APIs and prompt-driven workflows**.
+
+**Live:** https://thumbnail-with-ai.vercel.app  ·  **Code:** https://github.com/pranjalKumarglbtim/Thumbnail-with-AI
+
+### 🌐 Interactive Portfolio
+
+An experimental **3D portfolio website** built to explore interactive web experiences.
+
+**Live:** https://pranjalkumarglbtim.github.io/3D-Portfolio-Website/  ·  **Code:** https://github.com/pranjalKumarglbtim/3D-Portfolio-Website
+
+---
+
+## `04 / EXPERIENCE`
+
+### Full Stack Intern — The Developers Arena
+
+- Worked across frontend and backend development tasks
+- Contributed to web application features and implementation
+- Practiced React, REST APIs, debugging, and collaborative development workflows
+
+### Web Development Intern — Softpro India Computer Technologies
+
+- Built responsive web pages using HTML5, CSS3, JavaScript, and Java
+- Worked in an Agile development environment with sprint planning and code reviews
+- Focused on improving implementation quality and page performance
+
+---
+
+## `05 / CREDENTIALS`
+
+| Certification | Organization |
+|:---|:---|
+| **CCNA: Introduction to Networks** | Cisco Networking Academy |
+| **Introduction to Cybersecurity** | Cisco Networking Academy |
+| **Linux Fundamentals (RH104 v9.1)** | Red Hat |
+| **AWS Academy Graduate — Cloud Foundations** | Amazon Web Services |
+| **Cybersecurity Foundation** | Palo Alto Networks Cybersecurity Academy |
+| **Cybersecurity Academy Orientation** | Palo Alto Networks |
+
+---
+
+## `06 / EDUCATION`
+
+**B.Tech — Computer Science & Engineering**  
+GL Bajaj Institute of Technology & Management · Greater Noida  
+`Sept 2024 — June 2027`
+
+**Diploma — Information Technology**  
+Government Polytechnic · Lucknow  
+`Oct 2021 — Sept 2024`
+
+---
+
+## `07 / GITHUB SIGNAL`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&hide_border=true&border_radius=12&title_color=00D9FF&icon_color=B983FF&text_color=C9D1D9&bg_color=0A0E27&ring_color=00D9FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&hide_border=true&border_radius=16&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalKumarglbtim&hide_border=true&border_radius=12&background=0A0E27&stroke=00D9FF&ring=B983FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-trophy.vercel.app/?username=pranjalKumarglbtim&theme=dracula&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8&title_color=00D9FF&icon_color=B983FF&text_color=C9D1D9&bg_color=0A0E27" />
+<img height="170" src="https://streak-stats.demolab.com?user=pranjalKumarglbtim&hide_border=true&border_radius=16&background=0B1020&stroke=334155&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalKumarglbtim&bg_color=0A0E27&color=00D9FF&line=00D9FF&point=B983FF&area=true&area_color=B983FF&hide_border=true&border_radius=12" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalKumarglbtim&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="100%" />
 
 </div>
 
-## `> ./snake-eat-contributions.sh`
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/pranjalKumarglbtim/pranjalKumarglbtim/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-## `> cat current-focus.yaml`
+## `08 / NOW BUILDING`
 
 ```yaml
 learning:
-  - Advanced Generative AI & LLM-based agent workflows
-  - Applied cybersecurity (red/blue team practices)
+  - Generative AI and LLM application patterns
+  - AI-assisted developer workflows
+  - Applied cybersecurity and security fundamentals
 
 building:
-  - AI-powered tools integrating Generative AI APIs
-  - Full-stack web applications with React and Java backends
+  - AI-powered web applications
+  - Full-stack applications with Java and React
+  - Practical automation and developer tooling
 
 open_to:
-  - Full-Stack Developer roles
-  - Cybersecurity-focused roles
-  - Internships in AI / ML or Security
+  - Full-Stack Development Internships
+  - AI / ML Opportunities
+  - Cybersecurity Opportunities
+  - Collaborative Software Projects
 ```
 
-## `> connect --with-me`
+---
+
+## `09 / CONNECT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0A0E27)](https://linkedin.com/in/thepranjalkumar)
-[![Gmail](https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=B983FF&labelColor=0A0E27)](mailto:thepranjalkumar99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0A0E27)](https://github.com/pranjalKumarglbtim)
+### Have an idea, opportunity, or interesting problem?
+
+<a href="https://linkedin.com/in/thepranjalkumar"><img src="https://img.shields.io/badge/LET'S_CONNECT-22D3EE?style=for-the-badge&logo=linkedin&logoColor=07111F" /></a>
+<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-A78BFA?style=for-the-badge&logo=gmail&logoColor=07111F" /></a>
+
+<br/><br/>
+
+`$ status --online --learning --building`
+
+**Building at the intersection of software engineering, AI, and security.**
 
 </div>
 
-<p align="center">
-<i>"Building at the intersection of full-stack development, AI, and cybersecurity."</i>
-</p>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,2D1B4E,1B1F3B,0A0E27&height=150&section=footer" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,50:101A2F,100:24113A&height=120&section=footer" width="100%" />
+
+</div>
