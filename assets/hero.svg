@@ -1,33 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560" role="img" aria-label="Pranjal Kumar — Software Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="610" viewBox="0 0 1400 610" role="img" aria-label="Pranjal Kumar Software Developer portfolio hero">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".48" stop-color="#071326"/><stop offset="1" stop-color="#160b2b"/></linearGradient>
-<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".48" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
-<radialGradient id="cyan"><stop stop-color="#22d3ee" stop-opacity=".32"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
-<radialGradient id="violet"><stop stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#38bdf8" stroke-opacity=".07"/></pattern>
-<filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06152d"/><stop offset=".45" stop-color="#10134a"/><stop offset="1" stop-color="#2b0d3f"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset=".48" stop-color="#7c5cff"/><stop offset="1" stop-color="#ff4fd8"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071a35" stop-opacity=".96"/><stop offset="1" stop-color="#11113c" stop-opacity=".92"/></linearGradient>
+<radialGradient id="cyan"><stop stop-color="#00e5ff" stop-opacity=".28"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="pink"><stop stop-color="#ff4fd8" stop-opacity=".24"/><stop offset="1" stop-color="#ff4fd8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#73d7ff" stroke-opacity=".06"/></pattern>
+<clipPath id="avatar"><circle cx="1070" cy="276" r="118"/></clipPath>
+<filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <style>
-.pulse{animation:pulse 3s ease-in-out infinite}.float{animation:float 5s ease-in-out infinite}.scan{animation:scan 4.5s linear infinite}.dash{stroke-dasharray:10 18;animation:dash 3s linear infinite}.blink{animation:blink 1s steps(2,end) infinite}.orbit{transform-origin:1160px 302px;animation:orbit 9s linear infinite}
-@keyframes pulse{50%{opacity:.48;transform:scale(1.08)}} @keyframes float{50%{transform:translateY(-14px)}} @keyframes scan{0%{transform:translateY(0);opacity:0}20%{opacity:.5}100%{transform:translateY(430px);opacity:0}} @keyframes dash{to{stroke-dashoffset:-56}} @keyframes blink{50%{opacity:0}} @keyframes orbit{to{transform:rotate(360deg)}}
+.pulse{animation:pulse 3s ease-in-out infinite}.float{animation:float 5s ease-in-out infinite}.scan{animation:scan 4s linear infinite}.dash{stroke-dasharray:12 20;animation:dash 3s linear infinite}.orbit{transform-origin:1070px 276px;animation:orbit 8s linear infinite}.blink{animation:blink 1s steps(2,end) infinite}
+@keyframes pulse{50%{opacity:.65;transform:scale(1.07)}}@keyframes float{50%{transform:translateY(-10px)}}@keyframes scan{0%{transform:translateY(0);opacity:0}20%{opacity:.45}100%{transform:translateY(470px);opacity:0}}@keyframes dash{to{stroke-dashoffset:-64}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes blink{50%{opacity:0}}
 </style>
 </defs>
-<rect width="1400" height="560" rx="32" fill="url(#bg)"/>
-<rect width="1400" height="560" rx="32" fill="url(#grid)"/>
-<circle class="pulse" cx="1160" cy="95" r="300" fill="url(#cyan)" filter="url(#blur)"/>
-<circle class="pulse" cx="280" cy="470" r="270" fill="url(#violet)" filter="url(#blur)"/>
-<g fill="none" stroke="url(#neon)" opacity=".55"><path class="dash" d="M20 450 C260 290 430 520 700 350 S1080 120 1390 230"/><path class="dash" d="M-20 500 C270 360 480 550 760 390 S1120 190 1420 270" opacity=".35"/></g>
-<rect x="42" y="34" width="1316" height="492" rx="26" fill="#020617" fill-opacity=".84" stroke="#24334f"/>
-<circle cx="76" cy="68" r="7" fill="#fb7185"/><circle cx="99" cy="68" r="7" fill="#facc15"/><circle cx="122" cy="68" r="7" fill="#4ade80"/>
-<text x="150" y="74" fill="#64748b" font-family="monospace" font-size="15">pranjal@developer-studio · main</text>
-<text x="82" y="130" fill="#38bdf8" font-family="monospace" font-size="18">$ whoami</text>
-<text x="82" y="205" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="68" letter-spacing="3">PRANJAL KUMAR</text>
-<text x="85" y="250" fill="#a5b4fc" font-family="monospace" font-weight="700" font-size="25">SOFTWARE DEVELOPER</text>
-<text x="85" y="285" fill="#cbd5e1" font-family="monospace" font-size="19">Full-Stack · AI/ML · Java · Python · React</text>
-<rect x="84" y="307" width="720" height="4" rx="2" fill="url(#neon)"/>
-<text x="84" y="355" fill="#64748b" font-family="monospace" font-size="17">$ build</text><text x="174" y="355" fill="#f8fafc" font-family="monospace" font-size="17">real products, clean interfaces, useful AI</text>
-<text x="84" y="389" fill="#64748b" font-family="monospace" font-size="17">$ stack</text><text x="174" y="389" fill="#67e8f9" font-family="monospace" font-size="17">React · Java · Spring Boot · Python · FastAPI</text>
-<text x="84" y="423" fill="#64748b" font-family="monospace" font-size="17">$ status</text><text x="174" y="423" fill="#c4b5fd" font-family="monospace" font-size="17">learning → building → shipping</text><text class="blink" x="492" y="423" fill="#f472b6" font-family="monospace" font-size="17">_</text>
-<g class="float"><circle cx="1160" cy="302" r="112" fill="#07101f" stroke="url(#neon)" stroke-width="2.5"/><circle cx="1160" cy="302" r="92" fill="none" stroke="#38bdf8" stroke-opacity=".16"/><text x="1160" y="296" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="50" font-weight="800">&lt;/&gt;</text><text x="1160" y="333" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="14">SOFTWARE · AI</text><circle class="orbit" cx="1160" cy="190" r="5" fill="#f472b6"/></g>
-<line class="scan" x1="55" y1="92" x2="1345" y2="92" stroke="#38bdf8" stroke-width="2" stroke-opacity=".25"/>
-<text x="84" y="485" fill="#475569" font-family="monospace" font-size="14">github.com/pranjalKumarglbtim</text><text x="1315" y="485" text-anchor="end" fill="#34d399" font-family="monospace" font-size="14">● OPEN TO BUILD</text>
+<rect width="1400" height="610" rx="34" fill="url(#bg)"/><rect width="1400" height="610" rx="34" fill="url(#grid)"/>
+<circle class="pulse" cx="1120" cy="90" r="330" fill="url(#cyan)"/><circle class="pulse" cx="180" cy="540" r="290" fill="url(#pink)"/>
+<g fill="none" stroke="url(#neon)" opacity=".52"><path class="dash" d="M0 535 C230 380 390 620 650 455 S1060 130 1400 265"/><path class="dash" d="M-20 575 C250 430 430 660 700 500 S1110 225 1420 315" opacity=".34"/></g>
+<rect x="30" y="30" width="1340" height="550" rx="28" fill="#03091a" fill-opacity=".82" stroke="#27446f"/>
+<text x="70" y="78" fill="#54e8ff" font-family="monospace" font-size="18">&gt; whoami</text>
+<text x="70" y="145" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="900" letter-spacing="2">PRANJAL <tspan fill="url(#neon)">KUMAR</tspan></text>
+<text x="72" y="187" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing="7">SOFTWARE DEVELOPER</text>
+<text x="72" y="222" fill="#66f2ff" font-family="monospace" font-size="17">Build  /  Learn  /  Innovate  /  Repeat</text>
+<rect x="72" y="244" width="570" height="3" rx="2" fill="url(#neon)"/>
+<text x="72" y="280" fill="#e5e7eb" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Full-Stack Developer &amp; AI/ML Enthusiast</text>
+<text x="72" y="308" fill="#aebbd0" font-family="Arial,Helvetica,sans-serif" font-size="15">I build scalable web applications, explore AI technologies,</text>
+<text x="72" y="331" fill="#aebbd0" font-family="Arial,Helvetica,sans-serif" font-size="15">and turn ideas into real-world software products.</text>
+<text x="72" y="378" fill="#54e8ff" font-family="monospace" font-size="15">&lt;/&gt; Java</text><text x="190" y="378" fill="#ffffff" font-family="monospace" font-size="15">|</text><text x="210" y="378" fill="#ffd34d" font-family="monospace" font-size="15">Python</text><text x="315" y="378" fill="#ffffff" font-family="monospace" font-size="15">|</text><text x="335" y="378" fill="#f8df42" font-family="monospace" font-size="15">JavaScript</text><text x="470" y="378" fill="#ffffff" font-family="monospace" font-size="15">|</text><text x="490" y="378" fill="#61dafb" font-family="monospace" font-size="15">React</text><text x="575" y="378" fill="#ffffff" font-family="monospace" font-size="15">|</text><text x="595" y="378" fill="#80deea" font-family="monospace" font-size="15">MySQL</text>
+<g class="float"><circle cx="1070" cy="276" r="132" fill="#071a32" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/><circle cx="1070" cy="276" r="118" fill="#081225" stroke="#00e5ff" stroke-opacity=".25" stroke-width="2"/><image href="https://github.com/pranjalKumarglbtim.png" x="952" y="158" width="236" height="236" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/><circle cx="1070" cy="276" r="123" fill="none" stroke="#ff4fd8" stroke-opacity=".3" stroke-width="5"/></g>
+<g fill="none" stroke="#35e7ff" stroke-width="4" opacity=".8"><path d="M930 155 C865 90 820 170 865 205 C900 232 933 204 910 180"/><path d="M1208 397 C1270 445 1315 365 1272 336 C1238 313 1208 344 1232 366"/></g>
+<g class="orbit"><circle cx="1070" cy="145" r="5" fill="#ff4fd8"/><circle cx="1070" cy="407" r="5" fill="#54e8ff"/></g>
+<g>
+<rect x="1210" y="82" width="115" height="90" rx="16" fill="url(#card)" stroke="#24527d"/><text x="1228" y="110" fill="#54e8ff" font-family="monospace" font-size="12">VIEWS</text><text x="1228" y="145" fill="#fff" font-family="Arial" font-size="25" font-weight="800">LIVE</text>
+<rect x="1210" y="185" width="115" height="90" rx="16" fill="url(#card)" stroke="#24527d"/><text x="1228" y="213" fill="#c4b5fd" font-family="monospace" font-size="12">STACK</text><text x="1228" y="248" fill="#fff" font-family="Arial" font-size="22" font-weight="800">FULL</text>
+<rect x="1210" y="288" width="115" height="90" rx="16" fill="url(#card)" stroke="#24527d"/><text x="1228" y="316" fill="#ff7be1" font-family="monospace" font-size="12">MODE</text><text x="1228" y="351" fill="#fff" font-family="Arial" font-size="21" font-weight="800">BUILD</text>
+</g>
+<rect x="70" y="425" width="1060" height="92" rx="18" fill="url(#card)" stroke="#23466e"/><text x="96" y="458" fill="#54e8ff" font-family="monospace" font-size="15">$ focus</text><text x="178" y="458" fill="#fff" font-family="monospace" font-size="15">Full-Stack Development  •  AI-powered Applications</text><text x="96" y="488" fill="#8ea2bd" font-family="monospace" font-size="14">$ status</text><text x="178" y="488" fill="#c4b5fd" font-family="monospace" font-size="14">Learning → Building → Shipping</text><text class="blink" x="410" y="488" fill="#ff4fd8" font-family="monospace" font-size="14">_</text></rect>
+<text x="72" y="552" fill="#516b8e" font-family="monospace" font-size="12">github.com/pranjalKumarglbtim</text><text x="1328" y="552" text-anchor="end" fill="#42e6a4" font-family="monospace" font-size="12">● SOFTWARE DEVELOPER</text>
+<line class="scan" x1="45" y1="95" x2="1355" y2="95" stroke="#54e8ff" stroke-width="2" stroke-opacity=".3"/>
 </svg>
