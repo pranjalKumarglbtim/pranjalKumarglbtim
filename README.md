@@ -1,224 +1,159 @@
 <div align="center">
 
-<img src="./assets/terminal-header.svg" width="100%" alt="Pranjal Kumar — Full-Stack Developer, AI/ML Builder, Security Enthusiast" />
+<img src="./assets/hero.svg" width="100%" alt="Pranjal Kumar developer hero" />
 
 <br/>
 
-<a href="https://github.com/pranjalKumarglbtim"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
-<a href="https://linkedin.com/in/thepranjalkumar"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=pranjalKumarglbtim&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/pranjalKumarglbtim?style=flat-square&color=A78BFA&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/pranjalKumarglbtim?style=flat-square&color=22D3EE&label=STARS" />
-
-</div>
-
----
-
-## `01 / IDENTITY`
-
-> **I build software, experiment with AI, and keep security in the design loop.**
-
-I'm **Pranjal Kumar**, a B.Tech CSE student and developer focused on building practical web applications and AI-powered tools. My current stack sits at the intersection of **full-stack development, Java/Python, AI/ML, and cybersecurity**.
-
-```text
-┌─ CURRENT PROFILE ──────────────────────────────────────────┐
-│  ROLE        → Full-Stack Developer / AI-ML Builder        │
-│  EDUCATION   → B.Tech CSE · GL Bajaj · 2024–2027           │
-│  EXPERIENCE  → Full-Stack + Web Development Internships    │
-│  FOCUS       → Web Apps · AI/ML · Cybersecurity             │
-│  LOCATION    → India                                       │
-└────────────────────────────────────────────────────────────┘
-```
-
-### What I care about
-
-- 🧩 Turning ideas into usable, maintainable applications
-- 🤖 Applying AI/ML and Generative AI to real products
-- 🔐 Learning security with a practical, defensive mindset
-- ⚙️ Improving backend APIs, frontend UX, and developer workflows
-- 🚀 Building projects that are worth putting in a portfolio
-
----
-
-## `02 / TECH ARSENAL`
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,sql&theme=dark" />
-</p>
-
-### Frontend & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,spring,fastapi&theme=dark" />
-</p>
-
-### Data, Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp,linux,git,github&theme=dark" />
-</p>
-
-### AI / ML & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,postman,vscode&theme=dark" />
-</p>
-
-<table>
-<tr><th>Area</th><th>Working With</th></tr>
-<tr><td>Web</td><td>React · JavaScript · HTML · CSS · Bootstrap · REST APIs</td></tr>
-<tr><td>Backend</td><td>Java · Spring Boot · FastAPI · JDBC · Servlets</td></tr>
-<tr><td>AI / ML</td><td>Machine Learning · Scikit-learn · Generative AI · Prompt Engineering</td></tr>
-<tr><td>Security</td><td>Web Security · Networking · SOC Fundamentals · Red/Blue/Purple Team Basics</td></tr>
-<tr><td>Cloud</td><td>AWS · Google Cloud · Linux</td></tr>
-<tr><td>Data</td><td>MySQL · MongoDB · NoSQL · Firebase</td></tr>
-</table>
-
----
-
-## `03 / SELECTED BUILDS`
-
-<div align="center">
-
-| PROJECT | WHAT IT DOES | STACK |
-|:---|:---|:---|
-| **AI Thumbnail Generator** | Generates thumbnails through an AI-powered web workflow | TypeScript · Generative AI |
-| **Fake News Detection** | Classifies news and analyzes article content | Python · Scikit-learn · NLP |
-| **Task Management App** | Full-stack task management application | Java |
-| **3D Portfolio** | Interactive personal portfolio experience | JavaScript · 3D Web |
-| **RedChillies** | Restaurant reservation and food-ordering platform | HTML · CSS · JavaScript |
-| **Library Management** | Web application for managing books | TypeScript |
-
-</div>
-
-### ⭐ Featured project: Fake News Detection
-
-A machine-learning project using **TF-IDF + PassiveAggressiveClassifier**, with article extraction through web-scraping tools.
-
-**Live:** https://fake-news-detection-system-beta.vercel.app  ·  **Code:** https://github.com/pranjalKumarglbtim/Fake-News-Detection-System
-
-### 🤖 AI Thumbnail Generator
-
-A lightweight AI product experiment focused on **Generative AI APIs and prompt-driven workflows**.
-
-**Live:** https://thumbnail-with-ai.vercel.app  ·  **Code:** https://github.com/pranjalKumarglbtim/Thumbnail-with-AI
-
-### 🌐 Interactive Portfolio
-
-An experimental **3D portfolio website** built to explore interactive web experiences.
-
-**Live:** https://pranjalkumarglbtim.github.io/3D-Portfolio-Website/  ·  **Code:** https://github.com/pranjalKumarglbtim/3D-Portfolio-Website
-
----
-
-## `04 / EXPERIENCE`
-
-### Full Stack Intern — The Developers Arena
-
-- Worked across frontend and backend development tasks
-- Contributed to web application features and implementation
-- Practiced React, REST APIs, debugging, and collaborative development workflows
-
-### Web Development Intern — Softpro India Computer Technologies
-
-- Built responsive web pages using HTML5, CSS3, JavaScript, and Java
-- Worked in an Agile development environment with sprint planning and code reviews
-- Focused on improving implementation quality and page performance
-
----
-
-## `05 / CREDENTIALS`
-
-| Certification | Organization |
-|:---|:---|
-| **CCNA: Introduction to Networks** | Cisco Networking Academy |
-| **Introduction to Cybersecurity** | Cisco Networking Academy |
-| **Linux Fundamentals (RH104 v9.1)** | Red Hat |
-| **AWS Academy Graduate — Cloud Foundations** | Amazon Web Services |
-| **Cybersecurity Foundation** | Palo Alto Networks Cybersecurity Academy |
-| **Cybersecurity Academy Orientation** | Palo Alto Networks |
-
----
-
-## `06 / EDUCATION`
-
-**B.Tech — Computer Science & Engineering**  
-GL Bajaj Institute of Technology & Management · Greater Noida  
-`Sept 2024 — June 2027`
-
-**Diploma — Information Technology**  
-Government Polytechnic · Lucknow  
-`Oct 2021 — Sept 2024`
-
----
-
-## `07 / GITHUB SIGNAL`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&hide_border=true&border_radius=16&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&include_all_commits=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=pranjalKumarglbtim&hide_border=true&border_radius=16&background=0B1020&stroke=334155&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalKumarglbtim&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## `08 / NOW BUILDING`
-
-```yaml
-learning:
-  - Generative AI and LLM application patterns
-  - AI-assisted developer workflows
-  - Applied cybersecurity and security fundamentals
-
-building:
-  - AI-powered web applications
-  - Full-stack applications with Java and React
-  - Practical automation and developer tooling
-
-open_to:
-  - Full-Stack Development Internships
-  - AI / ML Opportunities
-  - Cybersecurity Opportunities
-  - Collaborative Software Projects
-```
-
----
-
-## `09 / CONNECT`
-
-<div align="center">
-
-### Have an idea, opportunity, or interesting problem?
-
-<a href="https://linkedin.com/in/thepranjalkumar"><img src="https://img.shields.io/badge/LET'S_CONNECT-22D3EE?style=for-the-badge&logo=linkedin&logoColor=07111F" /></a>
-<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-A78BFA?style=for-the-badge&logo=gmail&logoColor=07111F" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=FULL-STACK+DEVELOPER;AI%2FML+BUILDER;CYBERSECURITY+ENTHUSIAST;JAVA+%7C+PYTHON+%7C+REACT+%7C+SPRING+BOOT;BUILDING+IDEAS+INTO+REAL+SOFTWARE" alt="Typing animation" /></a>
 
 <br/><br/>
 
-`$ status --online --learning --building`
+<a href="https://github.com/pranjalKumarglbtim"><img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://www.linkedin.com/in/thepranjalkumar/"><img src="https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=7C3AED" /></a>
+<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/EMAIL-030712?style=for-the-badge&logo=gmail&logoColor=EC4899" /></a>
 
-**Building at the intersection of software engineering, AI, and security.**
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pranjalKumarglbtim&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/pranjalKumarglbtim?style=for-the-badge&color=7C3AED&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/pranjalKumarglbtim?style=for-the-badge&color=EC4899&label=STARS" />
 
 </div>
 
----
+<h2>⚡ About Me</h2>
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  PRANJAL KUMAR                                                      │
+│  ──────────────────────────────────────────────────────────────────  │
+│  ROLE       Full-Stack Developer / AI-ML Builder                    │
+│  EDUCATION  B.Tech CSE — GL Bajaj Institute of Technology            │
+│  FOCUS      Web Engineering • AI/ML • Cybersecurity                  │
+│  BUILDING   Practical products, automation & AI-powered applications │
+│  MINDSET    Learn fast • Build clean • Ship often                    │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+I build **web applications, AI-powered tools and practical developer projects**. I enjoy working across frontend, backend and AI layers while keeping security and maintainability in the loop.
+
+<h2>🧠 What I Build</h2>
+
+<table>
+<tr>
+<td width="33%" align="center"><h3>🌐 FULL-STACK</h3>React · JavaScript<br/>Java · Spring Boot<br/>REST APIs · FastAPI</td>
+<td width="33%" align="center"><h3>🤖 AI / ML</h3>Machine Learning<br/>Generative AI<br/>NLP · Prompt Engineering</td>
+<td width="33%" align="center"><h3>🔐 SECURITY</h3>Networking<br/>Web Security<br/>SOC & Red/Blue Team Basics</td>
+</tr>
+</table>
+
+<h2>🛠️ Tech Arsenal</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,react,nextjs,spring,fastapi,mysql,mongodb,firebase,aws,gcp,linux,git,github,postman,vscode&perline=7&theme=dark" />
+</p>
+
+<h2>🚀 Selected Builds</h2>
+
+<table>
+<tr><th>PROJECT</th><th>WHAT I BUILT</th><th>TECH</th></tr>
+<tr><td><b>🤖 AI Thumbnail Generator</b></td><td>AI-powered thumbnail generation workflow</td><td>TypeScript · Generative AI</td></tr>
+<tr><td><b>📰 Fake News Detection</b></td><td>ML-based news classification and article analysis</td><td>Python · NLP · Scikit-learn</td></tr>
+<tr><td><b>🌐 3D Portfolio</b></td><td>Interactive portfolio and 3D web experience</td><td>JavaScript · 3D Web</td></tr>
+<tr><td><b>🍽️ RedChillies</b></td><td>Restaurant reservation and food-ordering platform</td><td>HTML · CSS · JavaScript</td></tr>
+<tr><td><b>☕ Task Management App</b></td><td>Application for organizing and tracking tasks</td><td>Java</td></tr>
+<tr><td><b>📚 Library Management</b></td><td>Web application for managing books and records</td><td>TypeScript</td></tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/pranjalKumarglbtim/Fake-News-Detection-System"><img src="https://img.shields.io/badge/FAKE_NEWS_CODE-030712?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://fake-news-detection-system-beta.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-030712?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/pranjalKumarglbtim/Thumbnail-with-AI"><img src="https://img.shields.io/badge/AI_THUMBNAIL-030712?style=for-the-badge&logo=github&logoColor=7C3AED" /></a>
+</p>
+
+<h2>💼 Experience</h2>
+
+**Full Stack Intern — The Developers Arena**  
+Frontend + backend tasks · React · REST APIs · debugging · collaborative development
+
+**Web Development Intern — Softpro India Computer Technologies**  
+Responsive web development · HTML5 · CSS3 · JavaScript · Java · Agile workflows
+
+<h2>🏆 Certifications</h2>
+
+`CCNA: Introduction to Networks` · `Introduction to Cybersecurity` · `Linux Fundamentals`  
+`AWS Academy Cloud Foundations` · `Palo Alto Cybersecurity Foundation` · `Cybersecurity Academy Orientation`
+
+<h2>🎓 Education</h2>
+
+**B.Tech — Computer Science & Engineering**  
+GL Bajaj Institute of Technology & Management · 2024–2027
+
+**Diploma — Information Technology**  
+Government Polytechnic, Lucknow · 2021–2024
+
+<h2>📊 GitHub Command Center</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,50:101A2F,100:24113A&height=120&section=footer" width="100%" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&bg_color=030712&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1" />
+<img height="175" src="https://streak-stats.demolab.com?user=pranjalKumarglbtim&hide_border=true&border_radius=18&background=030712&stroke=1E293B&ring=00E5FF&fire=EC4899&currStreakLabel=00E5FF&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalKumarglbtim&bg_color=030712&color=CBD5E1&line=00E5FF&point=EC4899&area_color=7C3AED&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<h2>🔭 Currently Building</h2>
+
+```yaml
+learning:
+  - Generative AI and LLM application workflows
+  - Applied cybersecurity
+  - Better backend architecture and APIs
+
+building:
+  - AI-powered web applications
+  - Full-stack products with Java + React
+  - Practical automation and developer tooling
+
+open_to:
+  - Software Engineering Internships
+  - AI / ML Opportunities
+  - Cybersecurity Opportunities
+  - Interesting collaborative projects
+```
+
+<h2>⚙️ Developer Philosophy</h2>
+
+<div align="center">
+
+**IDEA → CODE → TEST → SECURE → SHIP → REPEAT**
+
+<br/>
+
+> I don't want to just collect technologies. I want to turn them into things that actually work.
+
+</div>
+
+<h2>🌐 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thepranjalkumar/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=030712" /></a>
+<a href="mailto:thepranjalkumar99@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+```text
+$ systemctl status pranjal
+● online — learning — building — shipping
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0B1024,100:170B2E&height=140&section=footer" width="100%" />
 
 </div>
