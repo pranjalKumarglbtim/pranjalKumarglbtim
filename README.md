@@ -156,7 +156,7 @@ Web application for managing books and library workflows.
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" width="100%" alt="GitHub statistics" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" width="100%" alt="GitHub statistics" />
 </td>
 <td width="50%" align="center" valign="top">
 <img src="https://streak-stats.demolab.com?user=pranjalKumarglbtim&hide_border=true&border_radius=18&background=0B1220&stroke=263B63&ring=8B5CF6&fire=EC4899&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="100%" alt="GitHub streak" />
@@ -166,15 +166,17 @@ Web application for managing books and library workflows.
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranjalKumarglbtim&layout=compact&langs_count=8&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0" width="100%" alt="Top languages" />
 </td>
-<td width="50%" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranjalKumarglbtim&theme=radical&no-bg=true&no-frame=true&margin-w=4&margin-h=4&column=4" width="100%" alt="GitHub trophies" />
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-trophy.vercel.app/?username=pranjalKumarglbtim&theme=radical&no-bg=true&no-frame=true&margin-w=4&margin-h=4&row=2&column=3" width="100%" alt="GitHub trophies" />
 </td>
 </tr>
 </table>
+
 ---
+
 ## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
