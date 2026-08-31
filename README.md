@@ -156,32 +156,21 @@ Web application for managing books and library workflows.
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" width="100%" alt="GitHub statistics" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranjalKumarglbtim&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&v=2" width="100%" alt="GitHub statistics" />
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://streak-stats.demolab.com?user=pranjalKumarglbtim&hide_border=true&border_radius=18&background=0B1220&stroke=263B63&ring=8B5CF6&fire=EC4899&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="100%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=pranjalKumarglbtim&hide_border=true&border_radius=18&background=0B1220&stroke=263B63&ring=8B5CF6&fire=EC4899&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&v=2" width="100%" alt="GitHub streak" />
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranjalKumarglbtim&layout=compact&langs_count=8&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0" width="100%" alt="Top languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranjalKumarglbtim&layout=compact&langs_count=8&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0&v=2" width="100%" alt="Top languages" />
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://github-profile-trophy.vercel.app/?username=pranjalKumarglbtim&theme=radical&no-bg=true&no-frame=true&margin-w=4&margin-h=4&row=2&column=3" width="100%" alt="GitHub trophies" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pranjalKumarglbtim&repo=Thumbnail-with-AI&theme=tokyonight&hide_border=true&border_radius=18&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&v=2" width="100%" alt="Featured Repo" />
 </td>
 </tr>
 </table>
-
----
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalKumarglbtim&bg_color=0B1220&color=CBD5E1&line=22D3EE&point=EC4899&area_color=312E81&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-</div>
 
 ---
 
